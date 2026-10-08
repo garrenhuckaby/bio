@@ -1,0 +1,25 @@
+{
+  "name": "Garren Huckaby",
+  "role": "Electrical engineering \u00b7 Hardware \u00b7 Software",
+  "bio": [
+    "I\u2019m Garren, an electrical engineering student at Utah State University. I enjoy building things that connect hardware, software, and practical problems.",
+    "My projects range from a handwriting capture pen to a biometric pill bottle and a personal budgeting app. Outside engineering, I enjoy music, classic literature, and time with my family."
+  ],
+  "portrait": "",
+  "portrait_alt": "Garren Huckaby",
+  "email": "",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/garrenhuckaby"
+    },
+    {
+      "label": "LinkedIn",
+      "placeholder": true
+    },
+    {
+      "label": "Email",
+      "placeholder": true
+    }
+  ]
+}
